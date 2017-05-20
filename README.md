@@ -6,7 +6,7 @@
 
 ## Control Flow
 
-* [async 模块](control/async/README.md) [视频](http://v.youku.com/v_show/id_XMjY2MjI5NzU5Ng==.html)
+* async 模块 [Markdown](control/async/README.md) [Vedio](http://v.youku.com/v_show/id_XMjY2MjI5NzU5Ng==.html)
 * Promise 实现 (筹备中)
 * coroutine 实现
 * co 模块
