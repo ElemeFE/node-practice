@@ -6,17 +6,19 @@
 
 ## Control Flow
 
-* async 模块 [Markdown](control/async/README.md) [Vedio](http://v.youku.com/v_show/id_XMjY2MjI5NzU5Ng==.html)
-* Promise 实现 [Markdown](control/promise/README.md) [Vedio](http://v.youku.com/v_show/id_XMjY4MjM4MjA2MA==.html)
-* coroutine 实现 [Markdown](control/coroutine/README.md)
-* co 模块 [Markdown](control/co/README.md)
+* async 模块 [[Markdown]](control/async/README.md) [[Vedio]](http://v.youku.com/v_show/id_XMjY2MjI5NzU5Ng==.html)
+* Promise 实现 [[Markdown]](control/promise/README.md) [[Vedio]](http://v.youku.com/v_show/id_XMjY4MjM4MjA2MA==.html)
+* coroutine 实现 [[Markdown]](control/coroutine/README.md)
+* co 模块 [[Markdown]](control/co/README.md)
 * async/await 实现
 * CSP 实现
+* lazy compute
 
 ## Web
 
+* HTTP client 实现 [[Markdown]](web/http-client/README.md)
+* HTTP server 实现
 * Request 模块
-* HTTP Server 实现
 * koa 实现
 * 模板引擎
 * 网页爬虫
