@@ -1,6 +1,6 @@
 # h1
 
-```
+```javascript
 'use strict';
 
 const net = require('net');
