@@ -1,5 +1,7 @@
 # Node.js 实践教程
 
+[![](https://badge.juejin.im/entry/598140d7f265da3e233e5604/likes.svg?style=flat)](https://juejin.im/entry/598140d7f265da3e233e5604/detail)
+
 本教程的初衷是做一个 Node.js 进阶的视频教程, 在撰写 [node-interview](https://github.com/ElemeFE/node-interview) 之后, 觉得按照概念依次讲下来不好组织, 于是决定按照以一些有名的**模块/功能**为基础, 在实现的过程中讲解各项知识点.
 
 其中的各项实践, 由于篇幅和时间的原因只有简单的基本原理, 在一些细节/错误处理上可能并没有太过深入, 如果各位同学在观看的过程中发现有问题/遗漏的地方可以在 issue 中提出, 后期会在相应的板书中整理补充.
